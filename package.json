@@ -15,11 +15,11 @@
     "react-dom": "18.0.0",
     "react-native": "0.69.4",
     "react-native-web": "~0.18.7",
-    "react-router-native": "^6.3.0"
+    "react-router-native": "^5.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
-    "@expo/webpack-config": "^0.17.2",
+    "@expo/webpack-config": "^0.16.19",
     "babel-eslint": "^10.1.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-config-standard-jsx": "^11.0.0",
